@@ -11,8 +11,8 @@
           <element id="file-copy" path="$PROJECT_DIR$/lib/derby.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/lib/derbyshared.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/lib/derbytools.jar" />
-          <element id="directory" name="decks">
-            <element id="dir-copy" path="$PROJECT_DIR$/lib/decks" />
+          <element id="directory" name="cards">
+            <element id="dir-copy" path="$PROJECT_DIR$/lib/cards" />
           </element>
         </element>
       </element>
