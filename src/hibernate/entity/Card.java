@@ -32,6 +32,23 @@ public class Card {
     public Card() {
     }
 
+    public Card(int cost, String effect, String imgURL, String className, String rarity, String cardType) {
+        this.cost = cost;
+        this.effect = effect;
+        this.imgURL = imgURL;
+        this.className = className;
+        Rarity = rarity;
+        this.cardType = cardType;
+    }
+
+    @Override
+    public String toString() {
+        return "ID: " + id +
+                "/Cost: " + cost +
+                "/Effect: " + effect +
+                "/ImgURL: " + imgURL;
+    }
+
     public int getId() {
         return id;
     }
@@ -40,9 +57,7 @@ public class Card {
         this.id = id;
     }
 
-    public int getCost() {
-        return cost;
-    }
+    public int getCost() { return cost; }
 
     public void setCost(int cost) {
         this.cost = cost;

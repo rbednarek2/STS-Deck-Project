@@ -17,6 +17,11 @@ public class CardTypes {
     public CardTypes() {
     }
 
+    @Override
+    public String toString() {
+        return "Type: " + cardType;
+    }
+
     public String getCardType() {
         return cardType;
     }

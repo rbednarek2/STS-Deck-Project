@@ -17,6 +17,11 @@ public class CardRarity {
     public CardRarity() {
     }
 
+    @Override
+    public String toString() {
+        return "Rarity: " + Rarity;
+    }
+
     public String getRarity() {
         return Rarity;
     }

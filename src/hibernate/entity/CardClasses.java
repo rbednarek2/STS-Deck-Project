@@ -17,6 +17,12 @@ public class CardClasses {
     public CardClasses() {
     }
 
+
+    @Override
+    public String toString() {
+        return "Class: " + className;
+    }
+
     public String getClassName() {
         return className;
     }

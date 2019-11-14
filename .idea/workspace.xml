@@ -7,18 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22fc318c-6a7d-41cb-acac-a17a1881b232" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_5_5_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hibernate/HibernateApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hibernate/entity/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hibernate/entity/CardClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hibernate/entity/CardRarity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hibernate/entity/CardTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/STS_Deck_Project_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/STS_Deck_Project_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/STS Deck Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/STS Deck Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate/HibernateApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hibernate/HibernateApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate/entity/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hibernate/entity/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate/entity/CardClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hibernate/entity/CardClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate/entity/CardRarity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hibernate/entity/CardRarity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hibernate/entity/CardTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hibernate/entity/CardTypes.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -185,7 +179,7 @@
       <workItem from="1570071914356" duration="5649000" />
       <workItem from="1571285847367" duration="2001000" />
       <workItem from="1573706413449" duration="492000" />
-      <workItem from="1573706988138" duration="3694000" />
+      <workItem from="1573706988138" duration="5370000" />
     </task>
     <task id="LOCAL-00001" summary="embedded derby database">
       <created>1568257150738</created>
